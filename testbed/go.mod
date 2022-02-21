@@ -27,7 +27,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.22.1
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.44.0
-	go.opentelemetry.io/collector/model v0.44.0
+	go.opentelemetry.io/collector/model v0.45.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/text v0.3.7
