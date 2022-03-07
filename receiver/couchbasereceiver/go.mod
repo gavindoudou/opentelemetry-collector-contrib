@@ -8,7 +8,7 @@ require (
 	go.uber.org/multierr v1.7.0
 )
 
-require go.opentelemetry.io/collector/model v0.44.0
+require go.opentelemetry.io/collector/model v0.46.0
 
 require go.uber.org/zap v1.21.0
 
