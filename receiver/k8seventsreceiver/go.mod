@@ -6,7 +6,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig v0.44.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.44.0
-	go.opentelemetry.io/collector/model v0.44.0
+	go.opentelemetry.io/collector/model v0.46.0
 	go.uber.org/zap v1.21.0
 	k8s.io/api v0.23.3
 	k8s.io/apimachinery v0.23.3
@@ -26,7 +26,6 @@ require (
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/knadh/koanf v1.4.0 // indirect
-	github.com/kr/pretty v0.3.0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
