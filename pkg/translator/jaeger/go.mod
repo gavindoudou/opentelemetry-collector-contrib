@@ -3,14 +3,14 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/
 go 1.17
 
 require (
-	github.com/jaegertracing/jaeger v1.31.0
+	github.com/jaegertracing/jaeger v1.33.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.44.0
-	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/collector/model v0.44.0
+	github.com/stretchr/testify v1.7.1
+	go.opentelemetry.io/collector/model v0.48.0
 )
 
 require (
-	github.com/apache/thrift v0.15.0 // indirect
+	github.com/apache/thrift v0.16.0 // indirect
 	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
