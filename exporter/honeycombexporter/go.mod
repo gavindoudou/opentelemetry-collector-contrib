@@ -4,9 +4,9 @@ go 1.17
 
 require (
 	github.com/google/go-cmp v0.5.7
-	github.com/honeycombio/libhoney-go v1.15.8
-	github.com/klauspost/compress v1.14.2
-	github.com/stretchr/testify v1.7.0
+	github.com/honeycombio/libhoney-go v1.25.0
+	github.com/klauspost/compress v1.17.11
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector v0.44.0
 	go.opentelemetry.io/collector/model v0.44.0
 	go.uber.org/multierr v1.7.0
@@ -32,7 +32,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
-	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
+	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.opentelemetry.io/otel v1.3.0 // indirect
@@ -41,5 +41,5 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
